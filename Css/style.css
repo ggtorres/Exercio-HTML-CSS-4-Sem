@@ -1,0 +1,81 @@
+*{
+    margin: 5px;
+    padding: 0;
+}
+
+.Menu{
+	float: right;
+	margin-top: 20px;
+	padding: 15px;
+	text-decoration: none;
+    color: black;
+    text-shadow: 1px 1px 1px grey;
+}
+
+.Menu:hover{
+    background-color: CornflowerBlue;
+    color: black;
+}
+
+.Pagina{
+	float: right;
+	margin-top: 20px;
+	padding: 15px;
+	text-decoration: none;
+    color: black;
+    text-shadow: 1px 1px 1px grey;
+}
+
+.Pagina:hover{
+    background-color: CornflowerBlue;
+    color: black;
+}
+
+.Plataforma{
+	float: right;
+	margin-top: 20px;
+	padding: 15px;
+	text-decoration: none;
+    color: black;
+    text-shadow: 1px 1px 1px grey;
+}
+
+.Plataforma:hover{
+    background-color: CornflowerBlue;
+    color: black;
+}
+
+body{
+    width: 1240px;
+    margin: auto;
+}
+
+
+#Bem{
+    font-size: 20px;
+    color: darkblue;
+    text-align: center;
+    font-family: arial;
+}
+
+#Texto{
+    font-size: 20px;
+    color: darkblue;
+    text-shadow: 1px 1px 1px grey;
+    text-align: center;
+    background-color: grey;
+    padding: 30px;
+}
+
+#Link{
+    text-shadow: 35px black;
+}
+
+#Rodape{
+    font-size: 15px;
+    color: darkred;
+    text-shadow: 2px 2px 2px grey;
+    text-align: center;
+}
+
+
